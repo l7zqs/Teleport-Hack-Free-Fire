@@ -16,8 +16,8 @@ A network configuration file that enables temporary teleportation in Free Fire b
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/📲_Download_APK-FF5722?style=for-the-badge&logo=android&logoColor=white)](https://example.com/download/apk)
-[![Download Config](https://img.shields.io/badge/⚙️_Download_Config-2196F3?style=for-the-badge&logo=github&logoColor=white)](netcfg_teleport.config)
+[![Download APK](https://img.shields.io/badge/📲_Download_APK-FF5722?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/l7zqs/Teleport-Hack-Free-Fire/main/Apk/Teleport.apk)
+[![Download Config](https://img.shields.io/badge/⚙️_Download_Config-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/l7zqs/Teleport-Hack-Free-Fire/main/Config/TELEPORTbyTasin.netcfg)
 
 </div>
 
