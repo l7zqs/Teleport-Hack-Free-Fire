@@ -1,6 +1,6 @@
 # 🚀 Free Fire Teleport Hack - Netcfg Configuration
 
-![Free Fire Teleport Banner](https://via.placeholder.com/800x300.png?text=Free+Fire+Teleport+Hack)
+![Free Fire Teleport Banner](https://github.com/l7zqs/Teleport-Hack-Free-Fire/raw/main/freefire.jpeg?raw=true&width=1024&height=391)
 
 A network configuration file that enables temporary teleportation in Free Fire by maintaining network configuration for 5 seconds.
 
